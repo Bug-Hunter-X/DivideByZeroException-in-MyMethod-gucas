@@ -1,0 +1,2 @@
+# C# DivideByZeroException Bug
+This repository demonstrates a common C# bug: a `DivideByZeroException` that can occur if a method doesn't properly handle division by zero.  The `MyMethod` in `bug.cs` fails when the second parameter (`b`) is 0. The solution, provided in `bugSolution.cs`, demonstrates a way to avoid this exception.
